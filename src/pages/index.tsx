@@ -103,7 +103,7 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Bot className="h-8 w-8 text-primary-600" />
-              <h1 className="text-xl font-bold text-gray-900">Amazon Pinterest Bot</h1>
+              <h1 className="text-xl font-bold text-gray-900">Automation Center</h1>
             </div>
             <nav className="flex space-x-4">
               <Link href="/privacy-policy" className="text-gray-600 hover:text-gray-900">
