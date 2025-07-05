@@ -143,7 +143,7 @@ export default function PrivacyPolicy() {
             If you have any questions about this privacy policy or our data practices, we're here to help.
           </p>
           <div className="space-y-2 text-sm text-gray-600">
-            <p><strong>Email:</strong> privacy@amazonpinterestbot.com</p>
+            <p><strong>Email:</strong> sociorama2021@gmail.com</p>
             <p><strong>Response Time:</strong> Within 48 hours</p>
             <p><strong>Last Updated:</strong> July 5, 2025</p>
           </div>
